@@ -1,0 +1,3 @@
+interface computer {
+    fun info()
+}
